@@ -26,7 +26,9 @@ body {
 .card-text {
     margin-bottom: 30px;
     text-align: center;
-    color:darkgreen;
+    color:darkorange;
+    font-family:cursive;
+
 }
 .nav-link {
     color: darkgreen;
@@ -71,6 +73,16 @@ h1 {
 .w {
     width: 465px;
     height: 265px;
+}
+.display-4 {
+    color: orange;
+    font-family: cursive;
+}
+.text-center {
+    font-family: cursive;
+}
+a.nav-link {
+    color: white !important;
 }
 
     
