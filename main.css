@@ -13,12 +13,18 @@ body {
     font-size: 16px;
     line-height: 1.0;
 }
-.card-img-top {
-    
+.card {
+    margin-bottom: 30px;
+    border: 0px;
     
 }
+.card-img-top {
+      width:  540px;
+      height: 300px;
+      
+}
 .card-text {
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     text-align: center;
     color:darkgreen;
 }
@@ -41,8 +47,35 @@ p {
     line-height: 40px;
     margin-top: 60px;
     padding: 10px 20px;
+    font-family:serif;
     
 }
+h1 {
+    font-family: "Glegoo"; 
+    color: orange;
+    
+}
+.grid {
+    display: grid;
+    width: 1500x;
+    height: 1200x;
+    grid-template-columns: 500x 900px;
+    grid-template-rows: 400px 400px 400px;
+    grid-gap: 20px 10px;
+    margin: 20px;
+}
+.box {
+    border-radius: 5px;
+}
+
+.w {
+    width: 465px;
+    height: 265px;
+}
+
+    
+
+    
 
 
  
