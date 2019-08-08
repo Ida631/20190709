@@ -14,17 +14,20 @@ body {
     line-height: 1.0;
 }
 .card {
-    margin-bottom: 30px;
+    margin: 50px 90px 10px 100px;
     border: 0px;
+    width: 350px;
+    
     
 }
 .card-img-top {
-      width:  540px;
-      height: 300px;
+      width:  350px;
+      height: 250px;
       
 }
 .card-text {
-    margin-bottom: 30px;
+    width: 350px;
+    margin: 5px;
     text-align: center;
     color:darkorange;
     font-family:cursive;
@@ -84,6 +87,11 @@ h1 {
 a.nav-link {
     color: white !important;
 }
+.container {
+    
+}
+
+
 
     
 
