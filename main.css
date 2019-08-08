@@ -15,18 +15,12 @@ body {
 }
 .card {
     border: 0px;
-    width: 350px;
-    
-    
 }
 .card-img-top {
-      width:  350px;
-      height: 250px;
-      
+    height:360px;
+    
 }
 .card-text {
-    width: 350px;
-    margin: 5px;
     text-align: center;
     color:darkorange;
     font-family:cursive;
